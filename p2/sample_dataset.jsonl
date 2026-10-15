@@ -1,0 +1,2 @@
+{"messages":[{"role":"system","content":"判断括号序列是否合法。任意前缀左括号数不多于右括号数，最终两者相等。仅输出 [Valid]: YES 或 [Valid]: NO."},
+{"role":"user","content":"(())()"},{"role":"assistant","content":"[Valid]: YES"},{"role":"user","content":"(()))("},{"role":"assistant","content":"[Valid]: NO"},{"role":"user","content":"((()))"},{"role":"assistant","content":"[Valid]: YES"},{"role":"user","content":")()("},{"role":"assistant","content":"[Valid]: NO"}]}
