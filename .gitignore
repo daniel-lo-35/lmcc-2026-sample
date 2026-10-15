@@ -1,3 +1,13 @@
+*.safetensors
+
+.vscode/
+__pycache__/
+*.pyc
+predictions.jsonl
+
+p2/p2data.jsonl
+p2/p2.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
