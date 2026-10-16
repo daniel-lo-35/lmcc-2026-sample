@@ -5,6 +5,8 @@ __pycache__/
 *.pyc
 predictions.jsonl
 
+lora_final/
+
 p2/p2data.jsonl
 p2/p2.py
 
